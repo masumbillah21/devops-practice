@@ -1,1 +1,1 @@
-This is just a test message
+This is just a test message to conflict and this is feature2 branch
